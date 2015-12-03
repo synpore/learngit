@@ -7,3 +7,4 @@ whate a nice day today;
 今天的市场情况如何
 git版本控制器真的不错
 修改用户邮件后提交
+增加了内容
